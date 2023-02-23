@@ -4,4 +4,4 @@ You cannot have an FNF mod without a song to go along with it. You could use oth
 
 ## The Software
 
-The software we will be using is the one I am used to, FL Studio (20.9), I will not disclose how to obtain a free copy of FL Studio, this guide assumes that you already have some sort of FL Studio on your computer, through any means that you deemed nessasery.
+The software we will be using is the one I am used to, FL Studio (20.9), I will not disclose how to obtain a copy of FL Studio, this guide assumes that you already have some sort of FL Studio on your computer, through any means that you deemed as nessasery when you obtained such thing.
