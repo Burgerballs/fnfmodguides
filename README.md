@@ -1,2 +1,3 @@
-# fnfmodguides
-A comprehensive guide on how to make a mod on Psych Engine, covering the topics I currently know.
+#FNF MOD GUIDES
+
+fnfmodguides is a project started by Burgerballs in order to comprehensively teach an aspiring FNF mod creator how to make their mod.
