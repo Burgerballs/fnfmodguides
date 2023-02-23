@@ -6,7 +6,7 @@ fnfmodguides is a project started by Burgerballs (me!) in order to comprehensive
 
 ## Why does this guide not cover anything art related?
 
-This guide assumes that you know art or somebody else made the art you'll use within the mod, because I honestly know nothing about art.
+This guide assumes that you know art or somebody else made the art you'll use within the mod, because I honestly know nothing about art despite my increasing interest into learning how to do it.
 
 ## Should this guide be followed 1-to-1
 
